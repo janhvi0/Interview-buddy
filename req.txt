@@ -1,0 +1,10 @@
+pycountry
+googlesearch-python
+google-genai
+agno
+python-dotenv
+aiohttp
+fastapi
+uvicorn
+sqlalchemy
+pandas
