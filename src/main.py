@@ -21,7 +21,7 @@ agent = get_agent()
 
 @app.get("/")
 def read_root():
-    return {"message": "Welcome to the WhatsApp Agent Portal."}
+    return {"message": "welcome to the portal."}
 
 
 @app.get("/webhook")
